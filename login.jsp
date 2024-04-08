@@ -1,0 +1,9 @@
+<HTML>
+	<HEAD>
+	</HEAD>
+	<BODY>
+		<FORM>
+			<INPUT TYPE="TEX" NAME="NOMBRE"/>
+		</FORM>
+	</BODY>
+</HTML>
